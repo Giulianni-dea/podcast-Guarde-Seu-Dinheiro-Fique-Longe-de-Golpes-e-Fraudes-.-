@@ -13,7 +13,7 @@
 
 ## Propósito do Podcast
 
-# :hearts:	O podcast "Guarde Seu Dinheiro: Fique Longe de Golpes e Fraudes" foi criado com a missão de informar e educar os ouvintes sobre as diversas formas de golpes e fraudes financeiras, fornecendo dicas práticas e acessíveis para evitar essas ameaças. Apresentado por João Silva, o podcast busca alcançar um público amplo, com ênfase especial em indivíduos que podem ser mais suscetíveis a esses riscos.
+:dart:		O podcast "Guarde Seu Dinheiro: Fique Longe de Golpes e Fraudes" foi criado com a missão de informar e educar os ouvintes sobre as diversas formas de golpes e fraudes financeiras, fornecendo dicas práticas e acessíveis para evitar essas ameaças. Apresentado por João Silva, o podcast busca alcançar um público amplo, com ênfase especial em indivíduos que podem ser mais suscetíveis a esses riscos.
 
 ## 💻 Tecnologias utilizadas no projeto
 - [COPILOT](https://copilot.microsoft.com/)
