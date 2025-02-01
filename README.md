@@ -1,7 +1,6 @@
 
 <p align="center">
-  <img src="./assets/capa2.png" alt="Capa">
-
+  <img src="./assets/capa.png" alt="Capa">
 
 </p>
 
