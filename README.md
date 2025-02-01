@@ -8,7 +8,7 @@
 
 ## Primeiro episódio do Podcast "Guarde Seu Dinheiro: Fique longe de Golpes e Fraudes"
 
-<a href="output/Podcast (1).mp4"> :headphones:Clique aqui para ouvir</a>
+<a href="/podcast_.mp4"> :headphones:Clique aqui para ouvir</a>
 
 ## Propósito do Podcast
 
